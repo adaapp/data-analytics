@@ -6,6 +6,10 @@
 
 ## Agile Thinking
 
+* [Agile for Software Development](http://agilemanifesto.org)
+* [A Manifesto for Agile Data Science](https://www.oreilly.com/ideas/a-manifesto-for-agile-data-science)
+* [Lean Principles](https://www.lean.org/WhatsLean/Principles.cfm)
+
 ## Research Design
 
 ## Literacy
