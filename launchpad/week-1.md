@@ -1,6 +1,6 @@
 # Week 1
 
-{% embed url="https://airtable.com/shruwJMB4RtnaJumr" caption="" %}
+{% embed url="https://airtable.com/shrM09fJT4cLdm1np" caption="" %}
 
 ### Diversity
 
