@@ -4,6 +4,9 @@
 
 ## Diversity
 
+* [Facebook Research - The Value of Diversity in Data Science Research](https://research.fb.com/the-value-of-diversity-in-data-science-research/)
+* [Forbes - The Data Science Diversity Gap](https://www.forbes.com/sites/priceonomics/2017/09/28/the-data-science-diversity-gap/#4ccb99875f58)
+
 ## Agile Thinking
 
 * [Agile for Software Development](http://agilemanifesto.org)
@@ -12,7 +15,11 @@
 
 ## Research Design
 
+* [Acheron Analytics' Guide to Designing a Data Science Project](http://www.acheronanalytics.com/acheron-blog/a-guide-to-designing-a-data-science-project)
+
 ## Literacy
+
+* [Ben Rix - How to Approach Extended Writing](https://docs.google.com/presentation/d/1Yq2tbFxYOKlBdnjOcpSAkf9tIearRTOJJ_EpgmPiLjU/edit?usp=sharing) \(Slides\)
 
 ## Ethics
 
