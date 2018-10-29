@@ -1,8 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [Untitled](untitled.md)
-* [Untitled](untitled-1.md)
+* [Data Analytics Course Guide](README.md)
 
 ## Launchpad
 
