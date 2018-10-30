@@ -16,6 +16,7 @@
 ## Research Design
 
 * [Acheron Analytics' Guide to Designing a Data Science Project](http://www.acheronanalytics.com/acheron-blog/a-guide-to-designing-a-data-science-project)
+* [Solving Data Science Problems Using CRISP - DM](https://www.kaggle.com/ananta/solving-data-science-problems-using-crisp-dm/notebook)
 
 ## Literacy
 
