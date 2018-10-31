@@ -25,6 +25,7 @@
 * [data.gov.uk](https://data.gov.uk) \(Government Digital Service's Data Search Engine\)
 * [Kaggle Datasets Library ](https://www.kaggle.com/datasets) 
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) \(Github Repo\)
+* [US Census Data](https://data.census.gov/cedsci/landing?intcmp=data_cedsci_banner.html)
 
 #### Example Challenges
 
