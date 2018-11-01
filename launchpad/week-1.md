@@ -33,6 +33,10 @@
 * [Kaggle Titantic Challenge](https://www.kaggle.com/c/titanic)
 * QuickDraw! - [ \(Kaggle / Google AI Challenge](https://www.kaggle.com/c/quickdraw-doodle-recognition)\)
 
+**Visualisation**
+
+* [DataMake.io ](http://datamake.io)\(Lars' Website\)
+
 ## Ethics
 
 * [ICO Guide to the General Data Protection Regulations](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/)
