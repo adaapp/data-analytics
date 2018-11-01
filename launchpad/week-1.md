@@ -4,6 +4,7 @@
 
 ## Diversity
 
+* [Community Standards](https://drive.google.com/open?id=1oKpUHdJWT0cofnbB2fqEfBXrZ62D7nT0vaKtCsXQla8) \(Slides\)
 * [Facebook Research - The Value of Diversity in Data Science Research](https://research.fb.com/the-value-of-diversity-in-data-science-research/)
 * [Forbes - The Data Science Diversity Gap](https://www.forbes.com/sites/priceonomics/2017/09/28/the-data-science-diversity-gap/#4ccb99875f58)
 
@@ -31,8 +32,6 @@
 
 * [Kaggle Titantic Challenge](https://www.kaggle.com/c/titanic)
 * QuickDraw! - [ \(Kaggle / Google AI Challenge](https://www.kaggle.com/c/quickdraw-doodle-recognition)\)
-
-## Literacy
 
 ## Ethics
 
