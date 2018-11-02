@@ -19,6 +19,8 @@
 * [Acheron Analytics' Guide to Designing a Data Science Project](http://www.acheronanalytics.com/acheron-blog/a-guide-to-designing-a-data-science-project)
 * [Solving Data Science Problems Using CRISP - DM](https://www.kaggle.com/ananta/solving-data-science-problems-using-crisp-dm/notebook)
 * [Ben Rix - How to Approach Extended Writing](https://docs.google.com/presentation/d/1Yq2tbFxYOKlBdnjOcpSAkf9tIearRTOJJ_EpgmPiLjU/edit?usp=sharing) \(Slides\)
+* [Project Brief](https://drive.google.com/open?id=15m1ETntkhEK8ptpN_IMEcszmY4vgvVivt-kRm3gkROg) \(Slides\)
+* [Research Methods, Classification & Metadata](https://drive.google.com/open?id=1GKJRcHR16ybpio4W-icb1pJ12sdxB5GS8udRZGmuLxc) \(Slides\)
 
 #### Dataset Stores
 
