@@ -8,3 +8,11 @@
 * Thursday Workshop
 * Friday Workshop
 
+### Data Analytics Assignment
+
+{% file src="../.gitbook/assets/da-assignment.pdf" caption="DA Assignment" %}
+
+{% file src="../.gitbook/assets/da-assignment-dataset-1.xlsx" caption="DA Assignment Dataset" %}
+
+
+
