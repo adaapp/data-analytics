@@ -14,5 +14,19 @@
 
 {% file src="../.gitbook/assets/da-assignment-dataset-1.xlsx" caption="DA Assignment Dataset" %}
 
+### Course Material
+
+{% file src="../.gitbook/assets/da-monday.xlsx" caption="Monday" %}
+
+{% file src="../.gitbook/assets/da-tuesday.xlsx" caption="Tuesday" %}
+
+{% file src="../.gitbook/assets/da-thursday.xlsx" caption="Thursday" %}
+
+{% file src="../.gitbook/assets/da-friday.xlsx" caption="Friday" %}
+
+{% file src="../.gitbook/assets/da-monday-ii.xlsx" caption="Monday II" %}
+
+{% file src="../.gitbook/assets/da-tuesday-2-1.xlsx" caption="Tuesday II" %}
+
 
 
